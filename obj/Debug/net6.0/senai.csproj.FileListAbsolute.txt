@@ -1,0 +1,5 @@
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.csproj.CoreCompileInputs.cache
